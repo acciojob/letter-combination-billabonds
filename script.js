@@ -1,4 +1,4 @@
-function letterCombinations(input_digit) {
+function letterCombinations(input) {
   //Complete the function
 	// let input = "234";
 
